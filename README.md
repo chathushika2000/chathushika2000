@@ -19,6 +19,6 @@ I'm Thushamini Chathushika. I'm a software engineer who loves to make open-sourc
 ![Thushamini Chathushika github stats](https://github-readme-stats.vercel.app/api?username=chathushika2000&show_icons=true&theme=dracula)<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chathushika2000&layout=compact).
 
-[website]: #
-[linkedin]: https://www.linkedin.com
-[instagram]: #
+[website]: https://chathushika2000.github.io/
+[linkedin]: https://www.linkedin.com/in/thushamini-chathushika-0146a71a7/
+[instagram]: https://www.instagram.com/chathu_stewart/
